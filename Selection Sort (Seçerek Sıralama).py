@@ -1,9 +1,3 @@
-'''
-class SortHelper:
-    def __init__(self):
-        pass
-'''
-
 def selection_sort(arry):
     for i in range(len(arry)):
         min_idx = i
